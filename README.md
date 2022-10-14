@@ -1,4 +1,4 @@
-# 📁 Documentação disponível do [Sistema bancário](https://github.com/HyperScripts/Exports-System_music/wiki/Sistema-de-m%C3%BAsica)
+# 📁 Documentação disponível do [Sistema bancário](https://github.com/HyperScripts/Banking/wiki/Sistema-banc%C3%A1rio)
 
 ### ⚠ Caso não entenda de como utilizar as exportações disponíveis, abra um ticket em nossa loja para mais detalhes.
 
